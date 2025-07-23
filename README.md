@@ -1,4 +1,4 @@
-# twl94
+# Lumex
 
 🎓 Student | 💻 Web Developer | 🎧 Producer <br/><br/>
 I build practical tools & publish music on Spotify<br/>
